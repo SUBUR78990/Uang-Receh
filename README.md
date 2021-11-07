@@ -1,2 +1,3 @@
-# nuyul-tiktokfan
-Script nuyul aplikasi tik tok pan
+# Cari Uang Receh
+Script nuyul Semua apk penghasil Uang
+
